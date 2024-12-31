@@ -4,6 +4,10 @@
 <br>
 
 ## Introduction
+
+## Executive Summary
+In this case study, I used a fictional bike-share company's data to examine a subscription-based company model, determine ride trends, and theorize what was causing them. I then developed an action plan based on these findings. 
+
 ### Scenario
 "You are a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share
 company in Chicago. The director of marketing believes the company’s future success
