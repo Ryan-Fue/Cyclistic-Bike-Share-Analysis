@@ -42,7 +42,6 @@ Tableau
 
 ### Tableau Dashboard
 [Trend Visualization](https://public.tableau.com/views/CyclisticAnalysis_17356118061430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-https://public.tableau.com/views/CyclisticAnalysis_17356118061430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Analysis
 The data suggests that customers tend to take longer trips on average using the Cyclistic bike service, while subscribers take more frequent, shorter trips (assuming there is a similar number of customers and subscribers in this fictional company).  
